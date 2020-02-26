@@ -1,2 +1,1 @@
-#PORTAFOLIO DE EVIDENCIAS DE ESTRUCTURA DE DATOS
-##Morales Tapia Aldahir
+#Morales Tapia Aldahir
